@@ -4,7 +4,7 @@ Encrypting passwords
 """
 import bcrypt
 
-efficient effi
+efficient eff
 def hash_password(password: str) -> bytes:
     """ Returns a salted, hashed password, which is a byte string """
     encoded = password.encode()
