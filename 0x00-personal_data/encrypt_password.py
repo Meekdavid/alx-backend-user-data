@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Encrypting passwords
-"""eff
+"""ef
 import bcrypt
 
 def hash_password(password: str) -> bytes:
